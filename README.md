@@ -2,7 +2,7 @@
 
 ## Prazer! 👋 me chamo Lucas de Carvalho Cabaleiro
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<hr>
+
  Cursando o quarto semestre do curso de Ciência da Computação na faculdade UNICSUL - Cruzeiro do Sul, e aluno do Instituto Proa. 
 
   ° 💻 Atualmente estou cursando  Ciência da Computação na <strong> UNICSUL - Cruzeiro do Sul.</strong>
