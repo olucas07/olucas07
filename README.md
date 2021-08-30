@@ -5,9 +5,7 @@
   <a href="https://github.com/olucas07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucas07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucas07&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-  ##
+</div><br>
   
 <div style="display: inline_block">
 <img align="center" alt="Java" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg">
