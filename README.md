@@ -1,6 +1,6 @@
 ## HELLO WORLD!! :earth_americas:
 
-## Prazer! 👋 me chamo Lucas de Carvalho Cabaleiro  
+## Oiie! 👋 me chamo Lucas de Carvalho Cabaleiro  
 <div>
   <a href="https://github.com/olucas07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucas07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
