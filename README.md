@@ -34,7 +34,7 @@
   ##
   
 <div align="center"> 
- <h3 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h3>
+ <h3 align="center">Contato <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h3>
   <a href="https://www.instagram.com/olucas.07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-cabaleiro//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:lucascabaleiro06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
