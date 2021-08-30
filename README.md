@@ -1,4 +1,4 @@
-### HELLO WORLD!! :earth_americas:
+<h3 align="center">HELLO WORLD!! :earth_americas:</h3>
 
 ## Oiie! 👋 me chamo Lucas de Carvalho Cabaleiro  
 
