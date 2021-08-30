@@ -26,7 +26,7 @@
 <img align="center" alt="Git" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-original.svg">
 <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg">
 </div>
-   
+   <br>
    <h3>Contatos:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-cabaleiro//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
