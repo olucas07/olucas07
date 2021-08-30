@@ -1,4 +1,15 @@
 ## Oiii! Eu sou o Lucas 
+ Cursando o quarto semestre do curso de Ciência da Computação na faculdade UNICSUL - Cruzeiro do Sul, e aluno do Instituto Proa. 
+
+  ° 💻 Atualmente estou cursando  Ciência da Computação na <strong> UNICSUL - Cruzeiro do Sul.</strong>
+
+  ° 💼 Buscando oportunidades para inicio de carreira (<strong>Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior</strong>).
+
+  ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
+
+  ° 🎓 Estudando <strong>Programação Full-Stack</strong> no Instituto Proa. 
+<h2>Linguagens e Tecnologias que estou estudando:</h2>
+
  <div>
   <a href="https://github.com/olucas07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucas07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
