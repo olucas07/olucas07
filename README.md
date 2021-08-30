@@ -1,4 +1,8 @@
-## Oii! Eu sou o Lucas 
+## HELLO WORLD!! :earth_americas:
+
+## Prazer! 👋 me chamo Lucas de Carvalho Cabaleiro
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<hr>
  Cursando o quarto semestre do curso de Ciência da Computação na faculdade UNICSUL - Cruzeiro do Sul, e aluno do Instituto Proa. 
 
   ° 💻 Atualmente estou cursando  Ciência da Computação na <strong> UNICSUL - Cruzeiro do Sul.</strong>
@@ -25,7 +29,9 @@
    
    <h3>Contatos:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-cabaleiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-cabaleiro//">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <hr>
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
