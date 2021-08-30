@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Lucas 
+## Oii! Eu sou o Lucas 
  Cursando o quarto semestre do curso de Ciência da Computação na faculdade UNICSUL - Cruzeiro do Sul, e aluno do Instituto Proa. 
 
   ° 💻 Atualmente estou cursando  Ciência da Computação na <strong> UNICSUL - Cruzeiro do Sul.</strong>
