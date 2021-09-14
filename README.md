@@ -18,9 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucas07&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div><br>
   
-  
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?olucas07&theme=midnight-purple)
-  
   <hr>
   
 <h3 align="center">Linguagens e ferramentas</h3>
